@@ -78,6 +78,8 @@ News
 
 * HealthKitUI -> HKActivityRingView 
 
+![](https://developer.apple.com/library/prerelease/ios/documentation/HealthKitUI/Reference/HKActivityRingView_Class/Art/ActiveSummaryRingView_2x.png)
+
 [_More_](https://developer.apple.com/library/prerelease/ios/documentation/HealthKitUI/Reference/HKActivityRingView_Class/index.html#//apple_ref/occ/cl/HKActivityRingView)
 
 ***
